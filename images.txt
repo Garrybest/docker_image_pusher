@@ -1,5 +1,5 @@
---platform=linux/arm64 golang:1.18
+--platform=linux/arm64 busybox:1.36.1
 --platform=linux/arm64 ubuntu:24.04
 ubuntu:24.04
-vllm/vllm-openai:v0.7.1
+vllm/vllm-openai:v0.7.3
 centos:7
