@@ -1,2 +1,2 @@
---platform=linux/arm64 busybox:1.36.1
-lmsysorg/sglang:v0.4.9.post2-cu126
+--platform=linux/arm64 nvcr.io/nvidia/pytorch:25.06-py3
+nvcr.io/nvidia/pytorch:25.06-py3
