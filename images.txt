@@ -1,2 +1,2 @@
---platform=linux/arm64 nvcr.io/nvidia/pytorch:25.06-py3
-nvcr.io/nvidia/pytorch:25.06-py3
+--platform=linux/arm64 golang:1.24
+golang:1.24
