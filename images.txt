@@ -1,2 +1,2 @@
-vllm/vllm-openai:v0.10.1.1
+nvcr.io/nvidia/cudagl:11.4.2-runtime-ubuntu20.04
 --platform=linux/arm64 golang:1.24
